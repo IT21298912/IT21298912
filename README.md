@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21298912&show_icons=true&theme=radical)
 
 
-![java](https://github.com/IT21298912/IT21298912/assets/99547060/00d9ef26-f1ab-4823-8abc-2d287377c26a)
+![Logo](https://github.com/IT21298912/IT21298912/raw/main/assets/99547060/00d9ef26-f1ab-4823-8abc-2d287377c26a.png)
 
 
 

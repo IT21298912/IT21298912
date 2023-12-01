@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Nisal Yapa
-![Game](https://github.com/IT21298912/IT21298912/assets/99547060/a680419e-2f89-4c10-b78b-42d3f4a67d51|width=100))
+![Game](https://github.com/IT21298912/IT21298912/assets/99547060/a680419e-2f89-4c10-b78b-42d3f4a67d51|width=50|height=50)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21298912&show_icons=true&theme=radical)
 

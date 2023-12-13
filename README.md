@@ -1,3 +1,7 @@
+
+![Gray And Black  Simple Personal LinkedIn Banner](https://github.com/IT21298912/IT21298912/assets/99547060/1121682e-5dae-4fc9-8d5c-1057d38bfedf)
+
+
 <h1 align="center">Hi 👋, I'm Nisal Yapa</h1>
 <h3 align="center">A Software developer from Sri Lanka</h3>
 
